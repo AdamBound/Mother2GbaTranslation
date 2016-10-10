@@ -366,7 +366,7 @@
 ^L1380^[01] <[1C 05 65]>[03][00]@When you eat this, it will increase either Speed, Guts, Vitality, IQ or Luck.[13][02]
 ^L1381^[01] <[1C 05 66]>[03][00][08 _L2137_]60[08 _L2138_][13][02]
 ^L1382^[01] <[1C 05 67]>[03][00][08 _L2137_]30[08 _L2138_][13][02]
-^L1383^[01] <[1C 05 68]>[03][00]@This is the Balloon Monkey's favorite.[03][00]@It will not help you recover, but[03][00]@you'll also never run out, 'cause it's a super jumbo pack![13][02]
+^L1383^[01] <[1C 05 68]>[03][00]@This is the Bubble Monkey's favorite.[03][00]@It will not help you recover, but[03][00]@you'll also never run out, 'cause it's a super jumbo pack![13][02]
 ^L1384^[01] <[1C 05 69]>[03][00]@Belch's most favorite food in the whole world.[03][00]@However... it smells REALLY, really nasty! We're talkin' major stinkage here![13][02]
 ^L1385^[01] <[1C 05 6A]>[03][00][08 _L2139_]6[08 _L2138_][13][02]
 ^L1386^[01] <[1C 05 6B]>[03][00]@The highest quality tea, produced by tea expert Mr. Y. Todaar,[03][00]@who carefully selects only hand-picked tea leaves.[03][00]@Long ago, only aristocrats at a king's court were allowed to drink this tea.[03][00][08 _L2139_]60[08 _L2138_][13][02]
